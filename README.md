@@ -66,16 +66,5 @@ Machine Learning (ML) is a subset of artificial intelligence (AI) that enables s
 
 ---
 
-## 🔗 Resources
-- **Courses**:
-  - Coursera: Machine Learning by Andrew Ng
-  - edX: Data Science and Machine Learning Essentials
-- **Books**:
-  - "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurélien Géron
-  - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
-- **Communities**: Kaggle, Reddit (r/MachineLearning), Stack Overflow
-
----
-
 ## 📌 Final Note
 Machine Learning is a rapidly evolving field with vast potential. Start small, experiment with real-world datasets, and gradually dive into advanced topics like deep learning and reinforcement learning to unlock its full power.
